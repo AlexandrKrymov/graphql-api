@@ -11,7 +11,7 @@
         "graphql": "^14.5.8",
         "graphql-iso-date": "^3.6.1",
         "hapi-swagger": "^10.1.2",
-        "mongoose": "^5.7.4",
+        "mongoose": "^5.7.5",
         "nodemon": "^1.19.3"
     }
 }
